@@ -95,7 +95,7 @@
 - **Modelagem OO (herança, override, polimorfismo)** — **0,4 pt**  
 - **Funcionamento (Main, execução e saídas corretas)** — **0,3 pt**  
 - **Qualidade de código (organização, encapsulamento, nomes, pacotes)** — **0,3 pt**  
-- **Colaboração Git (branches, PRs, review, histórico limpo)** — **1,0 pt**
+- **Colaboração Git (branches, PRs, review)** — **1,0 pt**
 
 > Penalizações: falta de `@Override`, ausência de `Main`, PRs sem review, commits na `main`.
 
